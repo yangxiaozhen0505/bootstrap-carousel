@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+}
+.carousel .carousel-inner .item img{
+    display:block;
+    width: 780px;
+    height:540px;
+    margin:0 auto;
+}
+/*.carousel-control.left,.carousel-control.right{*/
+    /*position:absolute;*/
+    /*display:block;*/
+    /*width: 35px;*/
+    /*height: 35px;*/
+    /*font-size:35px;*/
+    /*top:50%;*/
+    /*margin-top:-18px;*/
+/*}*/
+.carousel-control.left i{
+    position:absolute;
+    display:block;
+    width: 35px;
+    height: 35px;
+    font-size:35px;
+    top:50%;
+    margin-top:-18px;
+    left:35px;
+}
+.carousel-control.right i{
+    position:absolute;
+    display:block;
+    width: 35px;
+    height: 35px;
+    font-size:35px;
+    top:50%;
+    margin-top:-18px;
+    right:35px;
+}

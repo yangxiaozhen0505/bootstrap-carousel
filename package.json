@@ -1,0 +1,12 @@
+{
+  "name": "bootsrap-carousel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yangxiaozhen0505 <736453008@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "description": ""
+}
